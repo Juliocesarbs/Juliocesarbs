@@ -21,3 +21,11 @@
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/jcesarbalduino/)
  [![Medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)](https://medium.com/@JCesarBalduino)
  [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:jsilva.cesarbs@gmail.com)
+
+ #
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/Juliocesarbs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/Juliocesarbs/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Juliocesarbs/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
