@@ -21,11 +21,3 @@
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/jcesarbalduino/)
  [![Medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)](https://medium.com/@JCesarBalduino)
  [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:jsilva.cesarbs@gmail.com)
-
- #
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
