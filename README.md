@@ -1,4 +1,4 @@
- # Olá Pessoal! \o/
+ # 🎯 Olá Pessoal! \o/
  My name is Julio and I'm from Brazil. I've been working in IT since 2019 and currently I work as a Data Analyst at Itau Unibanco.
  I'm a developer lover about automation, data analysis and artificial intelligence.
 
@@ -25,7 +25,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
  
- <h1> Would you like to find me? </h1>
+ <h1> 🌐 Would you like to find me? </h1>
 
 <!-- Contact Badges -->
  <div align="center"> 
